@@ -28,7 +28,7 @@ The objective of this checkpoint is to define and implement the data sources, sc
 ├── memgraph/
 │   ├── schema_healthcare.cypher
 │   └── schema_postgres_healthcare.sql
-├── FDA Crawler.ipynb
+├── Crawler-CheckPoint-B.ipynb
 └── README.md
 ```
 
